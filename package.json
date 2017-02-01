@@ -1,0 +1,14 @@
+{
+  "name": "SmartPA",
+  "version": "0.0.1B",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Josh Riley // admin@joshuariley.co.uk // http://www.joshuariley.co.uk/",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.25.1"
+  }
+}
